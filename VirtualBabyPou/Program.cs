@@ -16,7 +16,7 @@ namespace VirtualBabyPou
         {
             #region Konsole
 
-            Console.Title = "☺☺☺ SANAL BEBEK POU ☺☺☺";
+            Console.Title = "☺☺☺ SANAL BEBEK POU ☺☺☺"; 
 
             //string[] menuler = { "Enerji", "Açlık", "Uyku", "Hijjen", "Mutluluk" };
             string[] menuler = { "Besle", "Uyut", "Yıka", "Oynat"  };
